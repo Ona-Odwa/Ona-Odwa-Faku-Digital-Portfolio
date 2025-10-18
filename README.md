@@ -1,5 +1,5 @@
 
-# 💼 Digital Portfolio (Final Summative Assessment – Nov 2025)
+# 💼 Digital Portfolio (Final Assessment – Nov 2025)
 
 ---
 
