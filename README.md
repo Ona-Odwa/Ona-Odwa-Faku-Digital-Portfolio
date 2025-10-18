@@ -74,12 +74,14 @@ I improved my ability to respond confidently and professionally during interview
 
 ### 🧾 Evidence
 - Participated in a mock interview exercise to simulate a real hiring process.  
-- Received constructive feedback from peera on my posture, tone, and clarity.  
-- Learned to use the STAR technique to answer situational and behavioral questions.  
+- Received constructive feedback from peers on my posture, tone, and clarity.  
+- Learned to use the STAR technique to answer situational and behavioral questions.
+- Could not upload Video because the file is too large 
 
 <p align="center">
       <img src="/docs/Mock Interview1.png" alt="Mock Interview1" width="300" /> 
    <img src="/docs/Mock Interview Video Proof.png" alt="Mock Interview Video Proofs" width="300" /> 
+       <img src="/docs/Mock Interview Video1.png" alt="Mock Interview Video1" width="300"
 </p>
 
 ### 💭 Reflection (STAR)
