@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Ona-Odwa Faku.
-# 💼 Work Readiness Digital Portfolio (Final Summative Assessment – Nov 2025)
+
+# 💼 Digital Portfolio (Final Summative Assessment – Nov 2025)
 
 ---
 
@@ -12,7 +12,8 @@ Skills:  REACT / JS / HTML / JAVA / PHP / SQL
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-[![GitHub Skyline](https://github.com/YOUR_USERNAME/skyline?year=2025)](https://skyline.github.com/YOUR_USERNAME/2025)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F700&width=435&lines=Hi+there!+I'm+Ona-Odwa+Faku;Software+Developer+Student;Passionate+about+Web+Dev)](https://git.io/typing-svg)
+
 
 
 ---
@@ -25,7 +26,7 @@ Skills:  REACT / JS / HTML / JAVA / PHP / SQL
 - Improved presentation skills through class-based and project-related activities.  
 
 <p align="center">
-  <img src="" alt="Business Communication Evidence" width="300" />
+ <img src="/C:\Users\onaod\Pictures\Screenshots/Bsuiness Commucication.jpg" alt="Bsuiness Commucication Proof" width="300" />   
 </p>
 
 ### 💭 Reflection (STAR)
