@@ -26,7 +26,7 @@ Skills:  REACT / JS / HTML / JAVA / PHP / SQL
 - Improved presentation skills through class-based and project-related activities.  
 
 <p align="center">
- <img src="/docs/Bsuiness Commucication.jpg" alt="Bsuiness Commucication" width="300" />   
+ <img src="/docs/Bsuiness Commucication.png" alt="Bsuiness Commucication" width="300" />   
 </p>
 
 ### 💭 Reflection (STAR)
@@ -52,7 +52,7 @@ I became more confident and articulate in expressing ideas, both in writing and 
 - Focused on building confidence, body language, and tone during interviews.  
 
 <p align="center">
-  <img src="" alt="Interview Skills Evidence" width="300" />
+   <img src="/docs/Interview Skills.png" alt="Interview Skills" width="300" />   
 </p>
 
 ### 💭 Reflection (STAR)
@@ -78,7 +78,8 @@ I improved my ability to respond confidently and professionally during interview
 - Learned to use the STAR technique to answer situational and behavioral questions.  
 
 <p align="center">
-  <img src="" alt="Mock Interview Evidence" width="300" />
+      <img src="/docs/Mock Interview1.png" alt="Mock Interview1" width="300" /> 
+   <img src="/docs/Mock Interview Video Proof.png" alt="Mock Interview Video Proofs" width="300" /> 
 </p>
 
 ### 💭 Reflection (STAR)
@@ -104,7 +105,7 @@ I gained valuable experience and constructive feedback, helping me refine my con
 - Connected with peers, lecturers, and professionals in the ICT field.  
 
 <p align="center">
-  <img src="" alt="Professional Networking Evidence" width="300" />
+   <img src="/docs/Professional Networking.png" alt="Professional Networking" width="300" /> 
 </p>
 
 ### 💭 Reflection (STAR)
@@ -130,7 +131,7 @@ I successfully established a professional online presence, learned about new opp
 - Applied proper etiquette during class projects and collaborative environments.  
 
 <p align="center">
-  <img src="" alt="Workplace Etiquette Evidence" width="300" />
+<img src="/docs/Workplace Etiquette.png" alt="Workplace Etiquette" width="300" /> 
 </p>
 
 ### 💭 Reflection (STAR)
