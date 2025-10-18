@@ -26,7 +26,7 @@ Skills:  REACT / JS / HTML / JAVA / PHP / SQL
 - Improved presentation skills through class-based and project-related activities.  
 
 <p align="center">
- <img src="/C:\Users\onaod\Pictures\Screenshots/Bsuiness Commucication.jpg" alt="Bsuiness Commucication Proof" width="300" />   
+ <img src="/docs/Bsuiness Commucication.jpg" alt="Bsuiness Commucication" width="300" />   
 </p>
 
 ### 💭 Reflection (STAR)
