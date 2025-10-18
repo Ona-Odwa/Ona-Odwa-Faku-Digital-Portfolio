@@ -1,17 +1,8 @@
 ### Hi there 👋, my name is Ona-Odwa Faku.
-# 💼 Work Readiness Digital Portfolio
-<!--
-**Ona-Odwa/Ona-Odwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-### Hi there 👋, my name is Ona-Odwa Faku.
-# 💼 Work Readiness Digital Portfolio
-
-<!--
-*Ona-Odwa/Ona-Odwa* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
--->
-
+# 💼 Work Readiness Digital Portfolio (Final Summative Assessment – Nov 2025)
 
 ---
+
 Skills:  REACT / JS / HTML / JAVA / PHP / SQL 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -21,167 +12,145 @@ Skills:  REACT / JS / HTML / JAVA / PHP / SQL
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=false)
-
-
-
-
-
-
-
-## 📘 1. Career Counselling
-
-### 🧾 Evidence
--Participated in the Career WIL recruitment event hosted by Capitec on campus.
-
--Engaged with representatives from student counseliing that helped us making our CV's.
-
--Currently applied to multiple jobs oppportunties.
-
-
-<img src="/docs/Student Counse Proof.jpg" alt="Student Counselling Proof" width="300" />
-
-
-### 💭 Reflection (STAR)
-⭐ S – Situation:
-I was in the process of exploring Work Integrated Learning (WIL) and career opportunities through various organizations.
-
-✅ T – Task:
-My goal was to attend career-related events and sessions to gain exposure to potential career paths.
-
-🚀 A – Action:
-I actively participated in events, asked insightful questions, and enrolled in relevant courses — some of which I’m currently completing, such as cloud computing via Amazon’s platform through Vodacom Learning.
-
-🏁 R – Result:
-I developed a clearer understanding of the career paths aligned with my qualification and gained valuable insight into effective strategies for identifying and pursuing job opportunities.
-
-
-
-## 🧠 2. Skills and Interests
-
-### 🧾 Evidence
-
-- Learned that aligning my skills, values, and interests leads to greater job satisfaction and performance.
-
--Understood the importance of identifying what brings me pride, happiness, and fulfillment in work.
-
--Discovered that core values like creativity, collaboration, and growth drive my career motivation.
-
-
- 
- <p align="center">
-  
-  <img src="/docs/Skill and Interest Proof.jpg" alt="Student Counselling Proof" width="300" />
-  
-</p>
-
----
-
-### 💭 Reflection (STAR Format)
-
-⭐ S – Situation:
-During my Work Integrated Learning (WIL) and personal development sessions, I needed to identify my core values, professional interests, and the skills that would shape my career path.
-
-✅ T – Task:
-My goal was to understand what work brings me pride, happiness, and fulfillment, and how to match those values and interests with specific career options in the tech industry.
-
-🚀 A – Action:
-I completed self-assessments, reflected on past projects, and analyzed moments where I felt most motivated and successful. I discovered that I’m most engaged when I'm solving problems, working creatively, and collaborating with others in meaningful ways.
-
-🏁 R – Result:
-I gained clarity about the kind of work that excites me — especially in full-stack development and educational tech. I now understand how to use my strengths like adaptability, critical thinking, and creativity to pursue roles that are both personally and professionally fulfilling.
-
+[![GitHub Skyline](https://github.com/YOUR_USERNAME/skyline?year=2025)](https://skyline.github.com/YOUR_USERNAME/2025)
 
 
 ---
 
-## 🧬 3. Personality Assessment
+## 🗣️ 1. Business Communication
 
 ### 🧾 Evidence
--Learned that career satisfaction is strongly linked to how well your job aligns with your personality type.
+- Learned how to communicate effectively in professional and academic environments.  
+- Practiced structured business writing, including formal emails and meeting communication.  
+- Improved presentation skills through class-based and project-related activities.  
 
--Realized that feeling unmotivated or disengaged can result from working in environments that conflict with your natural traits.
-
--Understood that defining my personality helps guide better career decisions and boosts long-term fulfillment.
-
--Discovered that my personality leans toward Social, Artistic, and Enterprising traits — which reflects my strengths in communication, creativity, and leadership.
-
--Matching my personality with the right work environment leads to higher motivation, better job performance, and greater job satisfaction.
-
-
-
- <p align="center">
-   <img src="/docs/Personality Assesment.jpg" alt="Personality Assesment" width="300" />
+<p align="center">
+  <img src="" alt="Business Communication Evidence" width="300" />
 </p>
 
 ### 💭 Reflection (STAR)
-⭐ S – Situation:
-During my self-development journey in WIL, I aimed to better understand how my personality type affects my work preferences and performance.
+⭐ **S – Situation:**  
+I needed to improve my professional communication skills to effectively collaborate with team members and potential employers.
 
-✅ T – Task:
-I was required to complete a personality assessment to explore how I can align my career path with my personal strengths and working style.
+✅ **T – Task:**  
+My goal was to enhance how I communicate through writing, speaking, and presentation in a workplace setting.
 
-🚀 A – Action:
-I completed the assessment, reflected on my responses, and identified that I align strongly with Social, Artistic, and Enterprising traits. I analyzed how these strengths showed up in group projects, leadership tasks, and creative problem-solving activities.
+🚀 **A – Action:**  
+I participated in communication workshops, learned to write professional emails, and practiced verbal presentation through mock business meetings.
 
-🏁 R – Result:
-This helped me realize that I thrive in environments where I can collaborate, create, and lead. I’m now more intentional in targeting roles and companies that match these traits, which boosts my confidence in planning a meaningful career path.
+🏁 **R – Result:**  
+I became more confident and articulate in expressing ideas, both in writing and verbally, which improved my overall professionalism.
 
 ---
 
-## 📄 4. Create a CV
+## 🎤 2. Interview Skills
 
 ### 🧾 Evidence
-- Created a professional CV with guidance from the student counsiling 
+- Learned various interview formats and strategies to prepare for job interviews.  
+- Practiced answering behavioral and technical questions using the STAR technique.  
+- Focused on building confidence, body language, and tone during interviews.  
 
- <p align="center">
-<img src="/docs/CV Resume1.jpg" alt="CV Resume1" width="300" />
-<img src="/docs/CV review.jpg" alt="CV review" width="300" />
+<p align="center">
+  <img src="" alt="Interview Skills Evidence" width="300" />
 </p>
 
 ### 💭 Reflection (STAR)
-⭐ S – Situation:
-I realized that I did not have a professional CV suitable for applying to job opportunities in the tech field.
+⭐ **S – Situation:**  
+I needed to strengthen my interview techniques to better present my skills and experience to employers.
 
-✅ T – Task:
-My objective was to create a well-structured CV that effectively showcased my skills, qualifications, and experience.
+✅ **T – Task:**  
+My objective was to prepare for real job interviews and improve my ability to communicate effectively under pressure.
 
-🚀 A – Action:
-I attended a CV development workshop on campus, gathered feedback from facilitators, and revised both the content and layout to improve clarity and impact.
+🚀 **A – Action:**  
+I attended interview preparation sessions, practiced answering common questions, and recorded mock interviews to review my performance.
 
-🏁 R – Result:
-I developed a polished, industry-aligned CV that accurately reflects my strengths and is tailored to the software development sector.
-
+🏁 **R – Result:**  
+I improved my ability to respond confidently and professionally during interviews, enhancing my readiness for future job opportunities.
 
 ---
 
-## 📨 5. CV Submission
+## 🧑‍💼 3. Mock Interview
 
 ### 🧾 Evidence
-- Submitted CV to a simulated or real employer via email or a portal
-<img src="/docs/Cv submission.jpg" alt="Cv submission" width="300" />
+- Participated in a mock interview exercise to simulate a real hiring process.  
+- Received constructive feedback from interviewers on posture, tone, and clarity.  
+- Learned to use the STAR technique to answer situational and behavioral questions.  
+
+<p align="center">
+  <img src="" alt="Mock Interview Evidence" width="300" />
+</p>
 
 ### 💭 Reflection (STAR)
-⭐ S – Situation:
-I wanted to put my newly developed CV and career readiness skills into practice by applying for a real job opportunity.
+⭐ **S – Situation:**  
+I was required to take part in a mock interview to demonstrate professionalism and test my readiness for real interviews.
 
-✅ T – Task:
-The goal was to identify a suitable opportunity and submit a tailored, professional CV as part of the application process.
+✅ **T – Task:**  
+My task was to answer questions confidently, present myself well, and apply techniques learned during training.
 
-🚀 A – Action:
-I researched potential employers, adapted my CV to align with the specific role, and submitted the application through the appropriate channels.
+🚀 **A – Action:**  
+I prepared thoroughly by researching common interview questions, practiced structured responses, and reviewed my communication style based on feedback.
 
-🏁 R – Result:
-I received encouraging feedback on my CV, which boosted my confidence and prepared me for future job applications.
+🏁 **R – Result:**  
+I gained valuable experience and constructive feedback, helping me refine my confidence, presentation, and ability to handle future interviews effectively.
 
+---
 
+## 🌐 4. Professional Networking
+
+### 🧾 Evidence
+- Learned about the importance of networking for career growth and opportunities.  
+- Created and updated a professional LinkedIn profile.  
+- Connected with peers, lecturers, and professionals in the ICT field.  
+
+<p align="center">
+  <img src="" alt="Professional Networking Evidence" width="300" />
+</p>
+
+### 💭 Reflection (STAR)
+⭐ **S – Situation:**  
+I realized that networking is vital for building professional relationships and learning from others in my field.
+
+✅ **T – Task:**  
+I needed to develop an online professional presence and engage with industry professionals to expand my connections.
+
+🚀 **A – Action:**  
+I built and optimized my LinkedIn profile, joined ICT-related discussions, and connected with mentors and classmates to grow my network.
+
+🏁 **R – Result:**  
+I successfully established a professional online presence, learned about new opportunities, and developed meaningful connections for my career journey.
+
+---
+
+## 🏢 5. Workplace Etiquette
+
+### 🧾 Evidence
+- Learned about professional behavior, teamwork, and time management in the workplace.  
+- Understood the importance of respect, punctuality, and positive communication.  
+- Applied proper etiquette during class projects and collaborative environments.  
+
+<p align="center">
+  <img src="" alt="Workplace Etiquette Evidence" width="300" />
+</p>
+
+### 💭 Reflection (STAR)
+⭐ **S – Situation:**  
+I needed to understand how to conduct myself professionally in a real workplace environment.
+
+✅ **T – Task:**  
+The goal was to learn and apply correct workplace etiquette, focusing on teamwork, professionalism, and ethical behavior.
+
+🚀 **A – Action:**  
+I completed workplace readiness lessons, practiced professional communication, and applied respect and collaboration in all my group tasks.
+
+🏁 **R – Result:**  
+I gained a deeper understanding of professional standards, improved my collaboration skills, and learned how to maintain a positive, respectful attitude at work.
 
 ---
 
 ## 📢 Contact
 
-- 📧 Email: 222878746@mycput.ac.za 
-- 💼 LinkedIn: [LinkedIn: ttps://www.linkedin.com/in/ona-faku-166489364/4) 
+- 📧 **Email:** 222878746@mycput.ac.za  
+- 💼 **LinkedIn:** [LinkedIn Profile]()  
 
 ---
+
