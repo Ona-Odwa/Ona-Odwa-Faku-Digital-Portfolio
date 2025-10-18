@@ -21,9 +21,9 @@ Skills:  REACT / JS / HTML / JAVA / PHP / SQL
 ## 🗣️ 1. Business Communication
 
 ### 🧾 Evidence
-- Learned how to communicate effectively in professional and academic environments.  
-- Practiced structured business writing, including formal emails and meeting communication.  
-- Improved presentation skills through class-based and project-related activities.  
+- Learned how to communicate effectively in professional and academic environments:
+  Such as I am in WIL projects so  I try to commucate in a formal manner within my team members and host employer and clients we speak with.   
+- I improved mu presentation skills through class activities.  
 
 <p align="center">
  <img src="/docs/Bsuiness Commucication.png" alt="Bsuiness Commucication" width="300" />   
@@ -34,10 +34,10 @@ Skills:  REACT / JS / HTML / JAVA / PHP / SQL
 I needed to improve my professional communication skills to effectively collaborate with team members and potential employers.
 
 ✅ **T – Task:**  
-My goal was to enhance how I communicate through writing, speaking, and presentation in a workplace setting.
+My goal was to better how I communicate through writing, speaking, and presentation in a workplace setting.
 
 🚀 **A – Action:**  
-I participated in communication workshops, learned to write professional emails, and practiced verbal presentation through mock business meetings.
+I participated in daily communication with mu group members, learned to write professional emails, and practiced verbal presentation through  meetings we have daily.
 
 🏁 **R – Result:**  
 I became more confident and articulate in expressing ideas, both in writing and verbally, which improved my overall professionalism.
@@ -74,7 +74,7 @@ I improved my ability to respond confidently and professionally during interview
 
 ### 🧾 Evidence
 - Participated in a mock interview exercise to simulate a real hiring process.  
-- Received constructive feedback from interviewers on posture, tone, and clarity.  
+- Received constructive feedback from peera on my posture, tone, and clarity.  
 - Learned to use the STAR technique to answer situational and behavioral questions.  
 
 <p align="center">
@@ -110,7 +110,7 @@ I gained valuable experience and constructive feedback, helping me refine my con
 
 ### 💭 Reflection (STAR)
 ⭐ **S – Situation:**  
-I realized that networking is vital for building professional relationships and learning from others in my field.
+I realized that networking is very important for building professional relationships and learning from others in my field.
 
 ✅ **T – Task:**  
 I needed to develop an online professional presence and engage with industry professionals to expand my connections.
@@ -126,7 +126,7 @@ I successfully established a professional online presence, learned about new opp
 ## 🏢 5. Workplace Etiquette
 
 ### 🧾 Evidence
-- Learned about professional behavior, teamwork, and time management in the workplace.  
+- Learned about professional behavior, teamwork, and time management in the workplace which is WIL Projects.  
 - Understood the importance of respect, punctuality, and positive communication.  
 - Applied proper etiquette during class projects and collaborative environments.  
 
@@ -149,8 +149,9 @@ I gained a deeper understanding of professional standards, improved my collabora
 
 ---
 
-## 📢 Contact
-
+## 📢Info
+- 📧 **Name: Ona-Odwa Faku** 
+- 💼 **Student Number: 222878746**
 - 📧 **Email:** 222878746@mycput.ac.za  
 - 💼 **LinkedIn:** [LinkedIn Profile]()  
 
